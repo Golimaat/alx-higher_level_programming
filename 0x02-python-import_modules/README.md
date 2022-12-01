@@ -1,4 +1,4 @@
-<h5> IMPORT AND MODULES </h5>
+<h1> IMPORT AND MODULES </h1>
 <hr>
 <h2>Intermediate python courses </h2>
 <hr>
