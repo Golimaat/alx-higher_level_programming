@@ -1,3 +1,9 @@
-import add-0
+#!/usr/bin/python3
 
-new = add-0.add(1, 2)
+if __name__ = "__main__"
+    """print the sum of a and b"""
+    from add_0 import add
+    
+    a = 1
+    b = 2
+    print(f"{} + {} = {}".format(a, b, add(a,b)))
